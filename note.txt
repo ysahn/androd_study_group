@@ -1,3 +1,6 @@
 Hello world!
 
-Too boring!
+Too not boring!
+
+Hot bug fix.
+
